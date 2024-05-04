@@ -22,7 +22,7 @@ export const Leaderboard = [
     },
     {
         name: "Aryan Negi",
-        branch: "COE",
+        branch: "CSE",
         score : 90,
         img: "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
         dt: "2021-10-23"
