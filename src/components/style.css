@@ -60,7 +60,7 @@
     justify-content: space-between;
     gap: 1em;
     text-align: left;
-    margin-bottom: 2em;
+    /* margin-bottom: 2em; */
 }
 
 #profile .flex .item{
